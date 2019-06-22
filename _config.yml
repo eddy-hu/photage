@@ -5,14 +5,14 @@ image_thumbs_loc: "/images/thumbs"
 google_analytics: "UA-142568509-1"
 
 # UI configs
-title: "Photage Studio"
-subtitle: "Commercial Photography"
+title: "Photage Studio - Product Photography"
+subtitle: 
 author: "Photage Studio"
 header:
  title: "Photage Studio"
- subtitle: "Commercial Photography"
+ subtitle: 
 footer:
- name: "Hey there, we're Photage"
+ name: "Hey there, we're the Photage"
  bio: "Photage is an Ottawa-based product photography studio that offers sharp, high-resolution, color-accurate product photo of Apparel, Jewelry, Cosmetics, Watches, Bags, Shoes and all types of Accessories for Online Stores to increase their sales and decrease order returns."
 web_design: "<a href=\"https://intellity.ca\">Intellity</a> "
 social_urls:
