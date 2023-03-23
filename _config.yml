@@ -1,19 +1,19 @@
 # Base configs
-baseurl: "http://photagestudio.com"
+baseurl: "http://mittystudio.com"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
 google_analytics: "UA-142568509-1"
 
 # UI configs
-title: "Photage Studio - Product Photography"
+title: "Mitty Studio - Product Photography"
 subtitle: 
-author: "Photage Studio"
+author: "Mitty Studio"
 header:
- title: "Photage Studio"
+ title: "Mitty Studio"
  subtitle: 
 footer:
- name: "Hey there, we're the Photage"
- bio: "Photage is a Canada and US based product photography studio that offers sharp, high-resolution, color-accurate product photo of Apparel, Jewelry, Cosmetics, Watches, Bags, Shoes and all types of Accessories for Online Stores to increase their sales and decrease order returns."
+ name: "Hey there, we're the Mitty"
+ bio: "Mitty is a Canada and US based product photography studio that offers sharp, high-resolution, color-accurate product photo of Apparel, Jewelry, Cosmetics, Watches, Bags, Shoes and all types of Accessories for Online Stores to increase their sales and decrease order returns."
 web_design: "<a href=\"https://intellity.ca\">Intellity</a> "
 social_urls:
   facebook: "https://www.facebook.com/PhotageStudio"
